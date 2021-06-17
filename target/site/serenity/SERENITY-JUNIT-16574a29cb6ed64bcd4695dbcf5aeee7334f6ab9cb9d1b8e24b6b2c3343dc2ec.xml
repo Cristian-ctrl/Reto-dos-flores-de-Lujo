@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Feature del Buscador en Aleatorio para la p�gina Flores de Lujo" skipped="0" tests="1" time="22.55" timestamp="2021-06-17 10:44:45"><testcase name="Buscar un arreglo aleatorio en Flores de lujo exitoso"><error message="Index: 1, Size: 0" type="java.lang.IndexOutOfBoundsException">Index: 1, Size: 0</error><system-err>Index: 1, Size: 0&#13;
+iteractions.ClicProductoAleatorio.performAs(ClicProductoAleatorio.java:23)&#13;
+tasks.BuscarProductoAleatorioEnFdL.performAs(BuscarProductoAleatorioEnFdL.java:15)&#13;
+stepDefinitions.BuscadorAleatorioFdLStepDefinition.buscoUnArregloAleatorioEnLaPagina(BuscadorAleatorioFdLStepDefinition.java:26)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)&#13;
+</system-err></testcase></testsuite>

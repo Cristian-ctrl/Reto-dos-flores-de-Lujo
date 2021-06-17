@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Feature del escenario Exitoso y no Exitoso para la pagina Flores de Lujo" skipped="1" tests="2" time="14.05" timestamp="2021-06-17 11:32:49"><testcase name="Buscar palabra en el buscador de Floires de lujo exitoso"><error message="No such field models.Producto.arreglo" type="cucumber.runtime.CucumberException">No such field models.Producto.arreglo</error><system-err>No such field models.Producto.arreglo&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)&#13;
+</system-err></testcase><testcase name="Buscar palabra en el buscador de de Floires de lujo no exitoso"><skipped/></testcase></testsuite>
